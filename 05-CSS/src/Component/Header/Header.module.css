@@ -1,0 +1,15 @@
+.header{
+    background-color: blue;
+    justify-content: space-between; 
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    margin: 10px;
+    
+}
+.logo{
+    text-decoration:underline;
+}
+.login{
+    background-color: aquamarine;
+}
