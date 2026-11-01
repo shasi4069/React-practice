@@ -1,0 +1,12 @@
+@import "tailwindcss"; 
+button{
+  margin-left: 10px;
+}
+.box{
+  height: 10px;
+  weight: 10px;
+
+}
+/* body{
+  background-color: gray;
+} */
